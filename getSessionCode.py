@@ -37,7 +37,7 @@ string = input("Enterni bosing")
 client = TelegramClient(StringSession(string), api_id, api_hash)
 
 
-phone_number = input("Raqam kiriting : ")
+phone_number = input("Raqam kiriting \n format: +998.......  ")
 
 
 
